@@ -1,18 +1,12 @@
-<h2 align="center">Привет,<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"> Я Евгений Гаас
+<h1 align="center">Привет,<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"> Я Евгений Гаас
 
-разработчик на Python</h2>
+разработчик на Python</h1>
 
-<h3>Мои контакты</h3>
-
-telegram: t.me/EwgeniyGaas
-
-email: jgaas@mail.ru
-
-<h3>Мой стек</h3>
+<h2>Мой стек</h2>
 
 Python, C++, Golang, HTML, CSS, PostgreSQL, API, Selenium WebDriwer, Git
 
-<h3>Мои работы</h3>
+<h2>Мои работы</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -48,25 +42,35 @@ Python, C++, Golang, HTML, CSS, PostgreSQL, API, Selenium WebDriwer, Git
 * Несколько простых программ (Golang) https://github.com/EwgeniyGaas/Simple_Programms_Golang
 .
 .
-<h3>Моё обучение</h3>
+<h2>Моё обучение</h2>
 
 * [Мой диплом программиста](https://github.com/EwgeniyGaas/EwgeniyGaas/blob/main/Diplom_Pyhon_Programmer.jpg)
 * [И приложение к диплому](https://github.com/EwgeniyGaas/EwgeniyGaas/blob/main/Diploma_Supplement.jpg)
 
-*А ещё я прохожу курсы на Stepik.org*
+***А ещё я прохожу курсы на Stepik.org***
 
 <img src="https://raw.githubusercontent.com/EwgeniyGaas/EwgeniyGaas/main/Stepik.org.jpg" alt>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/EwgeniyGaas)
+<h2>Мои контакты</h2>
 
-<!---Для компактной версии-->
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EwgeniyGaas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)--->
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+t.me/EwgeniyGaas
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+jgaas@mail.ru
+
+<h2>Моя статистика</2>
 
 <!---Для подробной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EwgeniyGaas)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+<!---Для компактной версии-->
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EwgeniyGaas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)--->
 <!---codewars-->
 <!---[![codewars](https://www.codewars.com/users/JGS/badges/large)](https://www.codewars.com/users/JGS)-->
 <!---LeetCode-->
 <!---[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=EwgeniyGaas)](https://github.com/KnlnKS/leetcode-stats)-->
-
