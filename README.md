@@ -29,7 +29,7 @@ Python, C++, Golang, HTML, CSS, PostgreSQL, API, Selenium WebDriwer, Git
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-*С++ мой первый язык, с которого я начинал изучать программирование*
+*С++ мой первый язык, с которого я начинал изучать программирование в 2014г.*
 
 * Консольное приложение "Хищник и жертва" (С++) https://github.com/EwgeniyGaas/Vermin_and_Prey_2015
 
