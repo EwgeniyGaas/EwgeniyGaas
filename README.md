@@ -61,6 +61,12 @@ t.me/EwgeniyGaas
 
 jgaas@mail.ru
 
+<h2>Мои отзывы</h2>
+
+**Отзыв на код игры Пятнашки (С++) от пользователя с высоким рейтингом на CyberForum.ru**
+
+![истрчник - https://www.cyberforum.ru/cpp-beginners/thread1950533-page2.html#post10328390](https://github.com/EwgeniyGaas/EwgeniyGaas/blob/main/Feedback_Pyatnashki_CyberForum.jpg)
+
 <h2>Моя статистика</2>
 
 <!---Для подробной версии-->
