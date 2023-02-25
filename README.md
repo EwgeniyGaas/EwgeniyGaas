@@ -27,6 +27,10 @@ Python, C++, Golang, HTML, CSS, PostgreSQL, API, Selenium WebDriwer, Git
 
 * Дипломная работа в Нетологии (HTML, CSS) https://github.com/EwgeniyGaas/Diplom-work-by-html-and-css.-Netology
 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+* Та же дипломная, что и в предыдущем пункте, но в обёртке Django https://github.com/EwgeniyGaas/Django-testproject
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 *С++ мой первый язык, с которого я начинал изучать программирование в 2014г.*
